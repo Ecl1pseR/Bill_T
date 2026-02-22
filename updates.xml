@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='cpafdepadhgkjbjoenblhaibhphaephi'>
+  <app appid='pibdjgchhgpjjamhlpfbabcjkmjchnen'>
     <updatecheck 
       codebase='https://ecl1pser.github.io/Bill_T/will-1.crx' 
-      version='22.11.0' />
+      version='22.12.0' />
   </app>
 </gupdate>
